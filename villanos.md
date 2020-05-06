@@ -3,3 +3,4 @@
 * Thanos
 * Ego
 * Ultron
+* Loki
